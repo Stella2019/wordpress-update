@@ -1,5 +1,5 @@
 {
-    "USERNAME": "anqi425784190",
+    "USERNAME": "stellaliu2021",
     "PASSWORD": "Anqi3776@",
     "XMLRPC_PHP": "https://anqi425784190.wordpress.com/xmlrpc.php"
 }
