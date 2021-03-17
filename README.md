@@ -34,6 +34,24 @@
 
 [InDesign转曲字体 导出PDF的技巧](https://anqi425784190.wordpress.com/p/2021-01-25-22/)
 
+[新型分布式DNN训练架构 BytePS](https://anqi425784190.wordpress.com/p/2020-12-19-新型分布式DNN训练架构 BytePS/)
+
+[金融风控基础知识整理](https://anqi425784190.wordpress.com/p/2020-07-12-金融风控基础知识整理/)
+
+[MOBIUS 搜索广告匹配系统](https://anqi425784190.wordpress.com/p/2020-06-14-MOBIUS 搜索广告匹配系统/)
+
+[用户行为序列建模](https://anqi425784190.wordpress.com/p/2020-06-01-用户行为序列建模/)
+
+[知识蒸馏在推荐系统的应用](https://anqi425784190.wordpress.com/p/2020-05-28-知识蒸馏在推荐系统的应用/)
+
+[强化学习的泛化能力问题](https://anqi425784190.wordpress.com/p/2020-05-16-强化学习的泛化能力问题/)
+
+[两个互联网世界](https://anqi425784190.wordpress.com/p/2020-04-12-两个互联网世界/)
+
+[搜索广告之自动化创意](https://anqi425784190.wordpress.com/p/2020-03-14-搜索广告之自动化创意/)
+
+[影响力研究](https://anqi425784190.wordpress.com/p/2020-01-29-影响力研究/)
+
 [Python写给前端的脚本！网站图片素材中文转英文](https://anqi425784190.wordpress.com/p/2020-01-25-21/)
 
 [B站黑白滤镜](https://anqi425784190.wordpress.com/p/2020-01-25-20/)
@@ -50,6 +68,8 @@
 
 [从「我的代码要改变世界」到「代码也不是最重要滴」](https://anqi425784190.wordpress.com/p/2020-01-20-code/)
 
+[资本世界初探](https://anqi425784190.wordpress.com/p/2020-01-19-资本世界初探/)
+
 [用Github Actions运行Python脚本更新仓库博客到WordPress，手机写Markdown同步更新到Github和WordPress攻略](https://anqi425784190.wordpress.com/p/2020-01-19-18-00-wordpressxmlrpctools/)
 
 [Xbox 2020 series手柄体验实录（附自制Xbox体感射击技巧）](https://anqi425784190.wordpress.com/p/2020-01-19-08-00-xbox-2020-series/)
@@ -57,6 +77,134 @@
 [建立个人独立博客有什么好处?](https://anqi425784190.wordpress.com/p/2020-01-18-blog/)
 
 [zhaoolee的Github主页](https://anqi425784190.wordpress.com/p/2020-01-17-zhaoolee/)
+
+[互联网金融的调研与思考](https://anqi425784190.wordpress.com/p/2019-12-20-互联网金融的调研与思考/)
+
+[推荐系统的发展与简单回顾](https://anqi425784190.wordpress.com/p/2019-12-10-推荐系统的发展与简单回顾/)
+
+[C++高阶数据结构](https://anqi425784190.wordpress.com/p/2019-10-22-C++高阶数据结构/)
+
+[DeepGBM 针对在线任务的GBDT2NN](https://anqi425784190.wordpress.com/p/2019-08-21-DeepGBM 针对在线任务的GBDT2NN/)
+
+[金融级分布式架构 SOFAStack](https://anqi425784190.wordpress.com/p/2019-06-21-金融级分布式架构 SOFAStack/)
+
+[生成对抗用户模型](https://anqi425784190.wordpress.com/p/2019-06-04-生成对抗用户模型/)
+
+[深度会话兴趣网络 DSIN](https://anqi425784190.wordpress.com/p/2019-05-21-深度会话兴趣网络 DSIN/)
+
+[Airbnb实时搜索排序](https://anqi425784190.wordpress.com/p/2019-05-19-Airbnb实时搜索排序/)
+
+[Youtube案例研究](https://anqi425784190.wordpress.com/p/2019-03-30-Youtube案例研究/)
+
+[搜索的原理](https://anqi425784190.wordpress.com/p/2019-03-29-搜索的原理/)
+
+[用户画像技术](https://anqi425784190.wordpress.com/p/2019-02-25-用户画像技术/)
+
+[深度兴趣演化网络 DIEN](https://anqi425784190.wordpress.com/p/2019-02-04-深度兴趣演化网络 DIEN/)
+
+[Shell踩坑](https://anqi425784190.wordpress.com/p/2019-01-25-Shell踩坑/)
+
+[2019资本导向](https://anqi425784190.wordpress.com/p/2019-01-17-2019资本导向/)
+
+[搜索与竞价广告](https://anqi425784190.wordpress.com/p/2019-01-13-搜索与竞价广告/)
+
+[自然语言处理的发展](https://anqi425784190.wordpress.com/p/2018-12-10-自然语言处理的发展/)
+
+[自动机器学习总览](https://anqi425784190.wordpress.com/p/2018-12-07-自动机器学习总览/)
+
+[强化学习总览](https://anqi425784190.wordpress.com/p/2018-12-02-强化学习总览/)
+
+[feed流与广告投放](https://anqi425784190.wordpress.com/p/2018-11-25-feed流与广告投放/)
+
+[数据竞赛Top解决方案开源整理](https://anqi425784190.wordpress.com/p/2018-11-16-数据竞赛Top解决方案开源整理/)
+
+[强化学习在推荐系统中的应用](https://anqi425784190.wordpress.com/p/2018-11-15-强化学习在推荐系统中的应用/)
+
+[探索序列模型的本质](https://anqi425784190.wordpress.com/p/2018-11-04-探索序列模型的本质/)
+
+[注意力与增强RNN](https://anqi425784190.wordpress.com/p/2018-10-28-注意力与增强RNN/)
+
+[元学习总览](https://anqi425784190.wordpress.com/p/2018-10-24-元学习总览/)
+
+[神经机器翻译学习大纲](https://anqi425784190.wordpress.com/p/2018-10-23-神经机器翻译学习大纲/)
+
+[深度强化学习综述](https://anqi425784190.wordpress.com/p/2018-10-21-深度强化学习综述/)
+
+[浅谈BLEU评分](https://anqi425784190.wordpress.com/p/2018-10-20-浅谈BLEU评分/)
+
+[PyTorch基础](https://anqi425784190.wordpress.com/p/2018-10-18-PyTorch基础/)
+
+[大规模机器学习](https://anqi425784190.wordpress.com/p/2018-10-06-大规模机器学习/)
+
+[基于深度学习的OCR](https://anqi425784190.wordpress.com/p/2018-10-05-基于深度学习的OCR/)
+
+[深度学习基础](https://anqi425784190.wordpress.com/p/2018-10-03-深度学习基础/)
+
+[特征工程（文字总结版）](https://anqi425784190.wordpress.com/p/2018-10-02-特征工程（文字总结版）/)
+
+[美团点评深度学习架构](https://anqi425784190.wordpress.com/p/2018-10-01-美团点评深度学习架构/)
+
+[常用评价指标](https://anqi425784190.wordpress.com/p/2018-09-29-常用评价指标/)
+
+[感知哈希算法](https://anqi425784190.wordpress.com/p/2018-09-25-感知哈希算法/)
+
+[Python大文件处理](https://anqi425784190.wordpress.com/p/2018-09-21-Python大文件处理/)
+
+[Attention机制](https://anqi425784190.wordpress.com/p/2018-09-05-Attention机制/)
+
+[代价函数](https://anqi425784190.wordpress.com/p/2018-09-04-代价函数/)
+
+[机器学习知识整理](https://anqi425784190.wordpress.com/p/2018-09-03-机器学习知识整理/)
+
+[C++动态规划题型](https://anqi425784190.wordpress.com/p/2018-08-22-C++动态规划题型/)
+
+[C++字符串题型](https://anqi425784190.wordpress.com/p/2018-08-21-C++字符串题型/)
+
+[C++排序算法](https://anqi425784190.wordpress.com/p/2018-08-20-C++排序算法/)
+
+[C++二叉树](https://anqi425784190.wordpress.com/p/2018-08-19-C++二叉树/)
+
+[C++刷题注记](https://anqi425784190.wordpress.com/p/2018-08-18-C++刷题注记/)
+
+[基于深度学习的推荐系统综述](https://anqi425784190.wordpress.com/p/2018-08-08-基于深度学习的推荐系统综述/)
+
+[匹配&推荐技术](https://anqi425784190.wordpress.com/p/2018-08-06-匹配&推荐技术/)
+
+[网络表示学习综述](https://anqi425784190.wordpress.com/p/2018-07-31-网络表示学习综述/)
+
+[关于深度学习的思考](https://anqi425784190.wordpress.com/p/2018-07-16-关于深度学习的思考/)
+
+[Tensorflow进阶](https://anqi425784190.wordpress.com/p/2018-06-26-TensoeFlow进阶/)
+
+[Tensorflow基础](https://anqi425784190.wordpress.com/p/2018-06-26-TensoeFlow基础/)
+
+[2018腾讯广告算法大赛经历](https://anqi425784190.wordpress.com/p/2018-06-21-2018腾讯广告算法大赛经历/)
+
+[QQ音乐推荐技术](https://anqi425784190.wordpress.com/p/2018-04-19-QQ音乐推荐技术/)
+
+[Python画图篇](https://anqi425784190.wordpress.com/p/2018-04-18-Python画图篇/)
+
+[Python增加样本篇](https://anqi425784190.wordpress.com/p/2018-04-12-Python增加样本篇/)
+
+[Python模型训练篇](https://anqi425784190.wordpress.com/p/2018-04-08-Python模型训练篇/)
+
+[Python特征选择篇](https://anqi425784190.wordpress.com/p/2018-03-18-Python特征选择篇/)
+
+[Python特征工程篇](https://anqi425784190.wordpress.com/p/2018-03-08-Python特征工程篇/)
+
+[XGBoost推导](https://anqi425784190.wordpress.com/p/2018-02-11-XGBoost推导/)
+
+[集成学习简要](https://anqi425784190.wordpress.com/p/2018-01-12-集成学习简要/)
+
+[Numpy学习](https://anqi425784190.wordpress.com/p/2017-11-20-Numpy学习/)
+
+[Gitalk “Validation Failed” 解决办法](https://anqi425784190.wordpress.com/p/2017-10-30-Gitalk “Validation Failed” 解决办法/)
+
+[网络传播仿真](https://anqi425784190.wordpress.com/p/2017-02-10-网络传播仿真/)
+
+[C++&Java&Python对比](https://anqi425784190.wordpress.com/p/2016-11-13-C++&Java&Python对比/)
+
+[web开发笔记](https://anqi425784190.wordpress.com/p/2016-10-01-web开发笔记/)
 
 ---end---
 
