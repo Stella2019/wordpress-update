@@ -1,9 +1,3 @@
-name: fangyuanxiaozhan
-on:
-  push:
-    branches:
-      - main
-job 
 name: blog
 on:
   push:
