@@ -1,0 +1,47 @@
+---
+title: Mac 配置 Maven 详细步骤
+tags:  Maven 
+category: 配置
+renderNumberedHeading: true
+grammar_cjkRuby: true
+---
+ 首先下载 maven ：https://maven.apache.org/download.cgi
+
+下载完成后，打开终端。输入 vi ~/.bash_profile
+
+
+
+回车，输入 i 进入 insert 模式：
+
+
+
+输入：
+
+``` bash
+export M2_HOME="/Users/etfox/Documents/Software/maven/apache-maven-3.5.3"
+
+export M2=$M2_HOME/bin
+
+export PATH="$M2_HOME/bin:$PATH"
+
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home
+```
+
+按esc，并输入 :wq （保存并退出）。
+
+
+
+回车，并输入 source ~/.bash_profile使配置生效,回车
+
+
+
+
+
+再输入 mvn -v，检查是否配置成功，配置成功将出现对应你安装的版本号
+
+
+
+
+
+配置完成。
+ 
