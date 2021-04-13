@@ -4,6 +4,8 @@
 ## 目录(2021年04月13日更新)
 [2021-04-12-深度学习总结](https://anqi425784190.wordpress.com/p/2021-04-12-深度学习总结/)
 
+[机器学习知识整理](https://anqi425784190.wordpress.com/p/2021-04-12-机器学习知识整理/)
+
 [Mac 配置 Maven 详细步骤](https://anqi425784190.wordpress.com/p/2021-03-29-Mac 配置Maven 详细步骤/)
 
 [Git指令整理](https://anqi425784190.wordpress.com/p/2021-03-17-Git指令整理/)
